@@ -1,0 +1,5 @@
+{
+"input": "sin(x) - sqrt(x)",
+"interval": [0.1, 40],
+"epsilon": 1e-5
+}

@@ -1,0 +1,9 @@
+{"W": [5,6,7],
+"direction": "max",
+"A": [
+    [1.2, 0.8, 0.6],
+    [0.5, 0.7, 1]
+],
+"constraints_direction": ["l", "l"],
+"b": [500.0, 400.0],
+"vars_constraints": [0.0, 0.0, 0.0]}
